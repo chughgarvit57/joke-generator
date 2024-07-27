@@ -16,3 +16,7 @@ This is a simple web application that generates random jokes using the Joke API.
 - **CSS:** Styling of the application.
 - **JavaScript:** Logic for fetching and displaying jokes.
 - **Joke API:** Provides random jokes.
+
+## Live Site
+
+Check out the live site [here](https://joke-random-generator.netlify.app/).
